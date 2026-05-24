@@ -1,0 +1,6 @@
+{
+  "name": "HustleHub",
+  "description": "HustleHub Zimbabwe: The official platform to find quick micro-jobs, post local gigs, and connect instantly with young local workers directly via WhatsApp.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
